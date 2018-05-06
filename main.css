@@ -1,0 +1,21 @@
+.start {
+	border: 1px solid blue;
+	border-radius: 15px;
+	margin-top: 50px;
+	width: 200px;
+	height: 500px;
+}
+.circle {
+	width: 150px;
+	border-radius: 50%;
+	border: 1px solid silver;
+	background-color: gray;
+	height: 150px;
+}
+#red{
+	background-color: red;
+}
+.row {
+	margin-left: -10px;
+	padding-top: 10px;
+}
